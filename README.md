@@ -7,12 +7,20 @@
 # NLW2 Discovery
 
 Aplicação desenvolvida durante a semana NLW2 da Rocketseat.
+
+![Image_1](https://github.com/felipebacelo/NLW2_Discovery/blob/master/public/images/image1.png)
+
 ***
+
 ### Projeto
 
 Proffy é uma plataforma de estudos online desenvolvida para conectar alunos e professores de forma rápida e fácil.
 Essa aplicação foi desenvolvida na trilha __Discovery__ da __NLW2__, evento produzido pela __Rocketseat__.
+
+![Image_3](https://github.com/felipebacelo/NLW2_Discovery/blob/master/public/images/image3.png)
+
 ***
+
 ### Desenvolvimento
 
 A aplicação foi desenvolvida utilizando a metodologia mobile first, preparada para suportar diferentes plataformas.
@@ -23,9 +31,10 @@ Para o desenvolvimento desta aplicação foram utilizadas as seguintes tecnologi
 * HTML
 * CSS
 * JavaScript
-***
-### Screenshots
-
+* Node
+* Nunjucks
+* Git Bash
+* SQLite
 
 ***
 ### Licenças
