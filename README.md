@@ -32,8 +32,6 @@ Para o desenvolvimento desta aplicação foram utilizadas as seguintes tecnologi
 * CSS
 * JavaScript
 * Node
-* Nunjucks
-* Git Bash
 * SQLite
 
 ***
