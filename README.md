@@ -12,7 +12,7 @@ Aplicação desenvolvida durante a semana NLW2 da Rocketseat.
 
 ***
 
-### Projeto
+### Proffy
 
 Proffy é uma plataforma de estudos online desenvolvida para conectar alunos e professores de forma rápida e fácil.
 
