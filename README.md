@@ -15,6 +15,7 @@ Aplicação desenvolvida durante a semana NLW2 da Rocketseat.
 ### Projeto
 
 Proffy é uma plataforma de estudos online desenvolvida para conectar alunos e professores de forma rápida e fácil.
+
 Essa aplicação foi desenvolvida na trilha __Discovery__ da __NLW2__, evento produzido pela __Rocketseat__.
 
 ![Image_3](https://github.com/felipebacelo/NLW2_Discovery/blob/master/public/images/image3.png)
